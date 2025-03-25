@@ -1,2 +1,2 @@
-# Owens_cybersecurity_portfolio
+# Owen's cybersecurity portfolio
 Owens_cybersecurity_portfolio
